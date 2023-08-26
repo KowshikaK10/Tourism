@@ -1,0 +1,51 @@
+.placeDetails{
+    font-size: 18px;
+    margin: 0 8rem 0 8rem;
+}
+
+.placeContent{
+    display: flex;
+    justify-content: space-between;
+}
+.placeContentDetails{
+    width:50%;
+}
+.placeContentDetails p{
+    text-indent: 2.5em;
+    text-align: justify;
+}
+.placeContentImage{
+     width: 50%;
+    padding: 1.5rem;
+}
+.placeContentImage img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.placeimg{
+    height: 100vh;
+}
+
+
+
+.placeimageDetails{
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 0 2rem 0;
+}
+
+.placepara1 p{
+    margin-left: 2rem;
+    text-indent: 5em;
+    text-align: justify;
+}
+.placepara2 p{
+    margin-right: 2rem;
+    text-indent: 5em;
+    text-align: justify;
+}
+.placepara1 h4{
+    padding-top: 10px;
+    margin-left: 2rem;
+}
